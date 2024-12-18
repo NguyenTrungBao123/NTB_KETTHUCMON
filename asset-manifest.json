@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NTB_KETTHUCMON/static/css/main.24c13c7f.css",
+    "main.js": "/NTB_KETTHUCMON/static/js/main.e16a261d.js",
+    "index.html": "/NTB_KETTHUCMON/index.html",
+    "main.24c13c7f.css.map": "/NTB_KETTHUCMON/static/css/main.24c13c7f.css.map",
+    "main.e16a261d.js.map": "/NTB_KETTHUCMON/static/js/main.e16a261d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24c13c7f.css",
+    "static/js/main.e16a261d.js"
+  ]
+}
